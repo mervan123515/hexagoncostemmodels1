@@ -61,3 +61,5 @@ weaponname = "Halloween C4",
         weaponname = "M1 Garand"
         modelname =  "Scout",
         model = game:GetObjects("6477587469")[1]["Scout"]
+}}
+
